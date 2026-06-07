@@ -2,6 +2,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/Users/Renu/Desktop/LumelAssessment/Lumel-ToDo-Assessment/LumelAssessmentProject">
-    <classes/>
+    <classes>
+         <class name="BasePage"   />
+    </classes>
     </test>
 </suite>
